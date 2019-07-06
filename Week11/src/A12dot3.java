@@ -22,6 +22,7 @@ import java.util.Scanner;
 public class A12dot3 {
 
 	// Check my github if there's errors running the zip file.
+	// https://github.com/jacobpad/newCIT260JAVA
 
 	/**
 	 * @param args
